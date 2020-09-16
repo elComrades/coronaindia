@@ -430,6 +430,11 @@ var i=0;
     ]
     },
     options: {
+	elements: {
+                    point:{
+                        radius: 0
+                    }
+                },
       legend: {
       position: 'top',
       labels: {
